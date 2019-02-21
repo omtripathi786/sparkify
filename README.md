@@ -42,7 +42,7 @@ Sparkify is a music app, this dataset contains two months of sparkify user behav
 
 According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
 
-I post a blog about the detail, you can find it [here](https://medium.com/@fxzero/how-to-predict-user-churn-using-pyspark-fe25f6de1d7a).
+I post a blog about the detail, you can find it [here](https://medium.com/@omtripathi88/customer-churn-prediction-with-pyspark-on-sparkify-data-48ef24c8e08a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
